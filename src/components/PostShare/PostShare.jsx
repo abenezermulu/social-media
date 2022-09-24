@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React, { useState, useRef } from "react";
 import "./PostShare.css";
 import ProfileImage from "../../img/profileImg.jpg";

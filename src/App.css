@@ -46,5 +46,8 @@
   color: var(--orange);
   background: transparent;
   border: 2px solid var(--orange);
-  
 } 
+
+::-webkit-scrollbar{
+  display: none;
+}
