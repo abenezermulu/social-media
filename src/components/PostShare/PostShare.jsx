@@ -36,19 +36,15 @@ const PostShare = () => {
             onClick={() => imageRef.current.click()}
           >
             <UilScenery />
-            Photo
           </div>
           <div className="option" style={{ color: "var(--video)" }}>
             <UilPlayCircle />
-            Video
           </div>
           <div className="option" style={{ color: "var(--location)" }}>
             <UilLocationPoint />
-            Location
           </div>
           <div className="option" style={{ color: "var(--shedule)" }}>
             <UilSchedule />
-            Schedule
           </div>
           <button className="button ps-button">Share</button>
           <div style={{ display: "none" }}>
