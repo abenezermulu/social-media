@@ -17,4 +17,4 @@ const LogoSearch = () => {
     )
 }
 
-export default LogoSearch
+export default LogoSearch;

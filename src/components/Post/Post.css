@@ -19,3 +19,8 @@
     align-items: flex-start;
     gap: 1rem;
 }
+
+.Post > span {
+    color: var(--gray);
+    font-size: 12px;
+}
