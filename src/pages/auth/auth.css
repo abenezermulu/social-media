@@ -69,7 +69,7 @@
   align-self: flex-start;
 }
 
-.alreadyMember {
+.alreadyMemberText, .registerText {
   background-color: red;
   background-image: var(--buttonBg);
   background-size: 100%;
@@ -93,7 +93,7 @@
     justify-content: center;
 }
 
-.loginText {
+.loginTextContainer, .registerTextContainer {
   font-size: 12px;
   align-self: flex-start;
 }
